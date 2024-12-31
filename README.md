@@ -1,10 +1,10 @@
 ## 官网地址([http://www.dzzoffice.com](http://www.dzzoffice.com/))
 
-## 当前镜像基于最新社区版 v2.02 构建。
+## 当前镜像基于最新社区版 v2.3 构建。
 
 ## 快速部署
 ```bash
-git clone https://github.com/land007/DzzOffice.git
+git clone https://github.com/feiyaogzs/DzzOffice.git
 cd DzzOffice
 sudo docker-compose up -d
 ```

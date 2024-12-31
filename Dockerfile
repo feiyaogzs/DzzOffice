@@ -1,6 +1,6 @@
 FROM php:7.3.8-apache-stretch
 
-ENV VERSION 2.02
+ENV VERSION 2.3
 
 RUN apt-get update && apt-get install -y libzip-dev libfreetype6-dev \
   && docker-php-ext-install mysqli \
